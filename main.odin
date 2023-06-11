@@ -22,9 +22,7 @@ CellCount :: GridRows * GridCols
 CellWidth :: WindowWidth / GridCols
 CellHeight :: WindowHeight / GridRows
 
-
 FontSizeNormal :: 20
-
 
 TextGameWon: cstring : "You Win!"
 TextGameOver: cstring : "Game Over!"
